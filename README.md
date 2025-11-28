@@ -1,1 +1,1 @@
-# bank-system-backend
+# bank-system-backend in golang and psql
